@@ -1,6 +1,6 @@
 # Linear Threshold Model on Network Topologies
 
-<img src="./net_image.png " width="300" height="300">
+<img src="./net_image.png " width="350" height="300">
 
 This repository contains an implementation of the Linear Threshold Model (LTM) on various network topologies using D3.js for visualization. The available network topologies include random, small-world, and preferential attachment. You can adjust parameters such as the number of nodes, minimum and maximum thresholds, mean degree, rewiring probability, and attachment degree.
 
